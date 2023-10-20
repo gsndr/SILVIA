@@ -1,4 +1,4 @@
-# Self-trainIng and spectraL Vegetation (SILVIA)
+# Self-trainIng and spectraL Vegetation Indices for spectral clAssification (SILVIA)
 
 
 The repository contains code refered to the work:
