@@ -5,7 +5,7 @@ The repository contains code refered to the work:
 
 _Giuseppina Andresini, Annalisa Appice, Donato Malerba_
 
-[SILVIA: An eXplainable Framework to Map Bark Beetle Infestation in Sentinel-2 Images]([https://ieeexplore.ieee.org/document/9036935](https://ieeexplore.ieee.org/document/10241978) 
+[SILVIA: An eXplainable Framework to Map Bark Beetle Infestation in Sentinel-2 Images](https://ieeexplore.ieee.org/document/10241978)
 
 Please cite our work if you find it useful for your research and work.
 ```
